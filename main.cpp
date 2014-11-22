@@ -4,6 +4,6 @@
 using namespace std;
 int main()
 {
-	cout<<multiple(2,add(2,4))<<endl;
+	cout<<multiple(2,add(2,4))<<endl
 	return 0;
 }
